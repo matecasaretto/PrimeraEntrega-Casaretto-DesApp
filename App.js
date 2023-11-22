@@ -7,6 +7,7 @@ export default function App() {
       <Text>Hola coders!</Text>
       <Text>Este es otro texto!</Text>
       <Text>Este es otro texto!</Text>
+      <Text>Este es otro texto!</Text>
       <StatusBar style="auto" />
     </View>
   );
